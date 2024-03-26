@@ -1,4 +1,4 @@
-# run this script as python3 umbridge-client.py http://localhost:4242
+# run this script as python3 test_output.py http://localhost:4242
 
 import argparse
 import umbridge
